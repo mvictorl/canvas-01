@@ -1,0 +1,7 @@
+canvas {
+  border: 1px solid black;
+}
+
+.readyForDraw {
+  border: 3px solid red;
+}
